@@ -1,6 +1,6 @@
 # Sicheng-Wang-Projects
 
-My name is Sichen(James) Wang, a Master of Engineering Student at Conerll Univeristy. This repositery consists of the Data Analytical/Quantitative Finance Projects I have completed. 
+Hello! My name is Sichen(James) Wang, a Master of Financial Engineering Student at Conerll Univeristy. My work focuses on leveraging econometrics tools and machine learning algorithms on Portfolio Construction, Credit Risk, and Market Risk.
 
 
 
