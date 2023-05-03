@@ -11,6 +11,6 @@ Outside of school, you'll find me traveling (18 Countries around the World), doi
 
 ## Proejcts
 
-###[Portfolio Construction via Fama-French 5 Factor Models](https://github.com/wangsic4/Sicheng-personal-website/tree/main/Fama-French%205%20Factor%20Estimation)###
+###[Portfolio Construction via Fama-French 5 Factor Models](https://github.com/wangsic4/Sicheng-personal-website/tree/main/Fama-French%205%20Factor%20Estimation)
 
 
