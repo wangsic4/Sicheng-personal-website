@@ -1,6 +1,6 @@
 ## About Myself 
 
-![brooklyn bridge.png](https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png)
+![brooklyn bridge.png](https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png){:height="36px" width="36px"}.
 
 Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Conerll Univeristy. 
 
