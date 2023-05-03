@@ -1,12 +1,7 @@
 
 ![brooklyn bridge.png](https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png)
 
-Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Conerll Univeristy. 
-
-My project and course work focuses on leveraging statistical tools and machine learning algorithms on Asset Pricing, Portfolio Construction, Credit and Market Risk Analysis. Prior to joining Cornell, I completed my undergraduate at the University of Toronto studying Statistics & Economics, and spent a summer exchanging to University of California, Berkeley, Haas School of Business.
-
-
-Outside of school, you'll find me traveling (18 Countries around the World), doing long distance swimming (competitive swimmer for 7 years) and jogging.
+Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Conerll Univeristy. My project and course work focuses on leveraging statistical tools and machine learning algorithms on Asset Pricing, Portfolio Construction, Credit and Market Risk Analysis. Prior to joining Cornell, I completed my undergraduate at the University of Toronto studying Statistics & Economics, and spent a summer exchanging to University of California, Berkeley, Haas School of Business. Outside of school, you'll find me traveling (18 Countries around the World), doing long distance swimming (competitive swimmer for 7 years) and jogging.
 
 ## Proejcts
 
