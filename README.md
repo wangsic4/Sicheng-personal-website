@@ -1,5 +1,5 @@
 
-<a href="https://sm.ms/image/HXRq3Db1aj2NAsh" target="_blank"><img src="https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png" width=20% height=20%/></a>
+![brooklyn bridge.png](https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png raw = true)
 
 Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Conerll Univeristy. 
 
