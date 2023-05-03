@@ -5,7 +5,10 @@ Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Con
 
 ## Proejcts
 
+### Machine Learning Credit Risk Prediction (On going)
+Constructed and trained Supervised Classification algorithms based on the Lending Club's Loan data from 2007 to 2018. PCA and feature engineering methods were performed to reduce redundant data and to select the most relevant features. K-fold cross-validation were applied for hyperparameter tunning. In sample prediction with different classification algorithms (ex. SVM, K-NN, and Random Forest) were performed to select the best model.   
+
 ### [Portfolio Construction via Fama-French 5 Factor Models](https://github.com/wangsic4/Sicheng-personal-website/tree/main/Fama-French%205%20Factor%20Estimation)
-Regression Model with 5 [Fama-French factors](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) is used to predict return and volatility of a bundle of stocks traded in NYSE. Constructed a portfolio consists the bundle of stocks via Markowitz Mean-Variance Optimization, where the estimated stocks' returns and volatility from Fama-French Regression are the inputs. Assessed Portfolio performance by comapring the back-testing results of the Fama-French estimated Portfolio to the traditional tangency Portfolio using historical mean return and volatility.
+Regression Model with 5 [Fama-French factors](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) is used to predict return and volatility of a bundle of stocks traded in NYSE. Constructed a portfolio consists the bundle of stocks via mean-variance analysis. The estimated stocks' returns and volatility from Fama-French Regression are used as the inputs for mean-variance analysis. Assessed Portfolio performance by comapring the back-testing results of the Fama-French estimated Portfolio to the traditional tangency Portfolio.
 
 
