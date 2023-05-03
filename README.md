@@ -1,6 +1,6 @@
 ## About Myself 
 
-<img src="https://github.com/wangsic4/Sicheng-personal-website/blob/main/images/brooklyn%20bridge.png" width=20% height=20%>
+<a href="https://sm.ms/image/HXRq3Db1aj2NAsh" target="_blank"><img src="https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png" ></a>
 Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Conerll Univeristy. 
 
 
