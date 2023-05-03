@@ -1,4 +1,3 @@
-## About Myself 
 
 ![brooklyn bridge.png](https://s2.loli.net/2023/05/04/HXRq3Db1aj2NAsh.png){width=250}
 
