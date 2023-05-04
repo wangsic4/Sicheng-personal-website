@@ -5,7 +5,7 @@ Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Con
 
 ## Proejcts
 
-### * Machine Learning Credit Risk Prediction (On going)
+### $\dot$ Machine Learning Credit Risk Prediction (On going)
 Constructed and trained Supervised Classification algorithms based on the Lending Club's Loan data from 2007 to 2018. PCA and feature engineering methods were performed to reduce redundant data and to select the most relevant features. K-fold cross-validation were applied for hyperparameter tunning. In sample prediction with different classification algorithms (ex. SVM, K-NN, and Random Forest) were performed to select the best model.   
 
 ### [Portfolio Construction via Fama-French 5 Factor Models](https://github.com/wangsic4/Sicheng-personal-website/blob/main/Fama-French%205%20Factor%20Estimation/Fama-French%20Five%20Factor%20Model.pdf)
