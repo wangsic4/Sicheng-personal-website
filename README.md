@@ -5,7 +5,7 @@ Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Cor
 
 ## <ins>Proejcts</ins>
 
-### [*Deep Learning Stock Return Prediction \& Mean-Variance Forecasting Portfolio *](https://github.com/wangsic4/Sicheng-personal-website/blob/main/Stock%20Return%20Prediction%20and%20Portfolio%20Construction%20via%20Deep%20Learning/MVF%20Report.pdf)
+### [*Deep Learning Stock Return Prediction \& Mean-Variance Forecasting Portfolio*](https://github.com/wangsic4/Sicheng-personal-website/blob/main/Stock%20Return%20Prediction%20and%20Portfolio%20Construction%20via%20Deep%20Learning/MVF%20Report.pdf)
 Utilized Forecasting techniques such as ARIMA, Machine Learning techniques such as Random Forest, and Deep Learning Alogrithms such as LSTM and CNN-LSTM for short-term stock returns prediction of the 50 top market cap equities in S\&P500. The predicted return is then used as input for the Mean-Variance optimization to arrived at a Forecasting/Predictive Portfolio. Our results suggests that Markowitz Portfolios using ARIMA and CNN-LSTM forecasted returns achieves significant abnormal return compare to the tradtional Markowitz and S\&P500 Index.
 
 ### [*Machine Learning Credit Risk Prediction*](https://github.com/wangsic4/Sicheng-personal-website/blob/main/Machine%20Learning%20Credit%20Default%20Prediction/Machine%20Learning%20for%20Credit%20Default%20Prediction%20Report.pdf) 
