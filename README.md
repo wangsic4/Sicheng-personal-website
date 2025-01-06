@@ -5,6 +5,10 @@ Hello! My name is Sicheng Wang, a Master of Financial Engineering Student at Cor
 
 ## <ins>Proejcts</ins>
 
+### [*VIX Volatility Index One Day Spike Forecast*](https://github.com/wangsic4/Sicheng-personal-website/blob/main/VIX%20Index%20One%20Day%20Spike%20Forecast/Wang.Sicheng.VIX_Final_Report%20copy.pdf)
+Forecasting the largest single day spike in VIX index in August 2024 via the Heterogeneous Autoregressive model(HAR Model). The HAR model utilize lagged Daily, Weekly, and Monthly Volatility as predictors, first proposed by Coris(2009). To improve upon the naive OLS estimation method, the Alternative estimation methods such as Realized GARCH error term and Weighted Least Square were implemented to
+the original model to improve model robustness and forecasting results.
+
 ### [*Deep Learning Stock Return Prediction & Mean-Variance Forecasting Portfolio*](https://github.com/wangsic4/Sicheng-personal-website/blob/main/Stock%20Return%20Prediction%20and%20Portfolio%20Construction%20via%20Deep%20Learning/MVF%20Report.pdf)
 Utilized Forecasting techniques such as ARIMA, Machine Learning techniques such as Random Forest, and Deep Learning Alogrithms such as LSTM and CNN-LSTM for short-term stock returns prediction of the 50 top market cap equities in S&P500. The predicted return is then used as input for the Mean-Variance optimization to arrived at a Forecasting/Predictive Portfolio. Our results suggests that Markowitz Portfolios using ARIMA and CNN-LSTM forecasted returns achieves significant abnormal return compare to the tradtional Markowitz and S&P500 Index.
 
