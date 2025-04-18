@@ -8,9 +8,11 @@ Hello! My name is Sicheng Wang, a gradute from the  Master of Financial Engineer
 In this study, we examine the arbitrage opportunities presented by the 2024 U.S. Presidential Election through the construction of a pair of systematic asymmetric
 portfolios designed to outperform market benchmarks (e.g., the S&P 500) in the event of either candidate’s victory. The systematic approach to constructing the
 asymmetric portfolios involves three key steps: 
-     (1) conducting qualitative analysis of election policies to create thematic baskets, 
-     (2) identifying key event windows in the election cycle based on betting odds volatility, and 
-     (3) implementing dynamic floor and cap filters to select assets based on their average returns during these event windows. 
+
+     1. Conducting qualitative analysis of election policies to create thematic baskets.
+     2. Identifying key event windows in the election cycle based on betting odds volatility.
+     3. implementing dynamic floor and cap filters to select assets based on their average returns during these event windows. 
+     
 The asymmetric nature of the portfolios arises from the dynamic filtering mechanism, which requires assets to exceed a performance threshold during positive events while ensuring returns remain above a specified floor during negative events. Two asymmetric portfolios were constructed—one for each presidential candidate. Post-election results demonstrate that the combined performance of the asymmetric
 portfolios significantly outperformed the benchmark, indicating the presence of election-driven arbitrage opportunities.
 
