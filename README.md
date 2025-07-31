@@ -4,6 +4,9 @@
 Hello! My name is Sicheng Wang, a gradute from the  Master of Financial Engineering program from the Cornell Univeristy. My project and course work focuses on leveraging statistical tools and machine learning algorithms on Asset Pricing, Portfolio Construction, Credit and Market Risk Analysis. Prior to joining Cornell, I completed my undergraduate at the University of Toronto studying Statistics & Economics, and spent a summer exchanging to Haas School of Business at UC Berkeley. Outside of school, you'll find me traveling (24 Countries around the World and plan for more), doing long distance swimming (competitive swimmer for 7 years), playing tennis, and jogging.
 
 ## <ins>Proejcts</ins>
+### [*CNN-LSTM Pairs Trading Strategy for Cryptocurrency Markets*](https://github.com/wangsic4/Crypto-Pairs-Trading-Based-on-CNN-LSTM-Deep-Learning/tree/main)
+Pairs trading strategy between BTC and ETH is implemented based on Deep Learning forecasting (CNN+LSTM). The strategy is based on the research paper "An Advanced CNN-LSTM Model for Cryptocurrency Forecasting" by Livieris et al. (2021) and extends their Multiple-Input Cryptocurrency Deep Learning (MICDL) model for practical trading applications.
+
 ### [*Election Arbitrage During the 2024 U.S. Presidential Election*](https://github.com/wangsic4/Sicheng-personal-website/blob/main/2024%20Election%20Arbitrage/2024%20Election%20Arbitrage.pdf)
 In this study, we examine the arbitrage opportunities presented by the 2024 U.S. Presidential Election through the construction of a pair of systematic asymmetric
 portfolios designed to outperform market benchmarks (e.g., the S&P 500) in the event of either candidate’s victory. The systematic approach to constructing the
